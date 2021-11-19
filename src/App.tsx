@@ -1,7 +1,6 @@
 import React from 'react';
 import { HashRouter, Route, Routes } from 'react-router-dom';
 import styled from 'styled-components';
-import './index.css';
 import { AboutPage } from './pages/AboutPage';
 import { MainPage } from './pages/MainPage';
 
