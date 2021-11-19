@@ -1,6 +1,6 @@
 {
     "test": {
-        "scope": "typescript",
+        "scope": "typescript,typescriptreact",
         "prefix": "Test boilerplate",
         "description": "Test",
         "body": [
