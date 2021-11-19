@@ -10,3 +10,4 @@
 -   `hejny/template-for-webapp` by scope/name of the project
 -   `template-for-webapp` by name of the project
 -   `_____` with misc things
+-   And then commit "Replace template" and push
