@@ -4,7 +4,7 @@ import styled from 'styled-components';
 export function MainPage() {
     return (
         <MainPageDiv>
-            <h1>Main page</h1>
+            <h1>Templateapp</h1>
         </MainPageDiv>
     );
 }
