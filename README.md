@@ -2,8 +2,7 @@
 
 <!--Badges-->
 
- [![Package Quality](https://packagequality.com/shield/template-for-webapp.svg)](https://packagequality.com/#?package=template-for-webapp)
- [![License](https://img.shields.io/github/license/hejny/template-for-webapp.svg?style=flat)](https://raw.githubusercontent.com/hejny/template-for-webapp/master/LICENSE)
+ [![License of 🔲 Template for webapp](https://img.shields.io/github/license/hejny/template-for-webapp.svg?style=flat)](https://github.com/hejny/template-for-webapp/blob/main/LICENSE)
  [![deploy](https://github.com/hejny/template-for-webapp/actions/workflows/deploy.yml/badge.svg)](https://github.com/hejny/template-for-webapp/actions/workflows/deploy.yml)
  [![test+lint](https://github.com/hejny/template-for-webapp/actions/workflows/test+lint.yml/badge.svg)](https://github.com/hejny/template-for-webapp/actions/workflows/test+lint.yml)
  [![Known Vulnerabilities](https://snyk.io/test/github/hejny/template-for-webapp/badge.svg)](https://snyk.io/test/github/hejny/template-for-webapp)
