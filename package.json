@@ -58,5 +58,5 @@
     "typescript": "4.5.2",
     "web-vitals": "2.1.2"
   },
-  "description": "Test + Lint"
+  "description": "Template for the simple web application"
 }
