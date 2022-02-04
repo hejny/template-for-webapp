@@ -12,7 +12,7 @@
 
 <!--/Badges-->
 
-[![Test + Lint](https://github.com/hejny/template-for-webapp/actions/workflows/test+lint.yml/badge.svg)](https://github.com/hejny/template-for-webapp/actions/workflows/test+lint.yml)
+Template for the simple web application
 
 ## Fork and replace:
 
