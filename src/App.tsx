@@ -1,4 +1,3 @@
-import React from 'react';
 import { HashRouter, Link, Route, Routes } from 'react-router-dom';
 import styled from 'styled-components';
 import { AboutPage } from './pages/AboutPage';
