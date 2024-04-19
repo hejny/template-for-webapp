@@ -9,6 +9,7 @@
 [![test+lint](https://github.com/hejny/template-for-webapp/actions/workflows/test+lint.yml/badge.svg)](https://github.com/hejny/template-for-webapp/actions/workflows/test+lint.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/hejny/template-for-webapp/badge.svg)](https://snyk.io/test/github/hejny/template-for-webapp)
 [![Issues](https://img.shields.io/github/issues/hejny/template-for-webapp.svg?style=flat)](https://github.com/hejny/template-for-webapp/issues)
+<!--[![Socket](https://socket.dev/api/badge/npm/package/template-for-webapp)](https://socket.dev/npm/package/template-for-webapp)-->
 
 <!--/Badges-->
 
