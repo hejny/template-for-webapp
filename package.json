@@ -3,7 +3,7 @@
     "version": "0.1.5",
     "private": false,
     "homepage": "https://www.domain.tld/",
-    "license": "SEE LICENSE IN LICENSE",
+    "license": "Apache-2.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/hejny/template-for-webapp"
