@@ -6,7 +6,7 @@
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hejny/template-for-webapp"
+        "url": "git+https://github.com/hejny/template-for-webapp.git"
     },
     "contributors": [
         "Pavol Hejný <pavol@collboard.com> (https://pavolhejny.com)"
